@@ -1,0 +1,4 @@
+- 👋 ola, eu sou @YuriMulhman
+- 👀 estou interessado em aprender
+- 🌱 atualmente estou aprendendo javascript
+- 📫 como me achar: m.yuri@escola.pr.gov.br
